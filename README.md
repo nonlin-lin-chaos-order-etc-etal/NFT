@@ -19,3 +19,11 @@ Collection of smart contracts & js scripts & ??? to mint NFTs on ( testnet | mai
 ## A Guide
 
 * https://www.youtube.com/watch?v=KbhiAaRdgwc Mint 10000 NFTs on Polygon mainnet with ERC1155 smart contract | Sell on Opensea | Full Code Walkthrough | Bulk mint 10000 NFTs on Polygon mainnet with ERC1155 smart contract and sell on Opensea 
+
+## Some remarks
+
+[Переслано от Саня Круглый]
+
+Я нашел вот такое решение для картинок правда, сам контент заливается на pinnata
+
+https://github.com/neha01/NFT/tree/main/bulk_mint_nfts
